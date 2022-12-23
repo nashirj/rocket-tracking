@@ -1,5 +1,9 @@
 # Project overview
 
+Link to YouTube demo of rocket object detection
+
+[![Watch the video](https://img.youtube.com/vi/_ECUBA9DCYI/maxresdefault.jpg)](https://youtu.be/_ECUBA9DCYI)
+
 See https://docs.google.com/document/d/1TMhAC7ZwyCgVrUk31nMRxyOAeYL_1aFDZaZbZZmNZ58/edit#
 
 ## Object detection
